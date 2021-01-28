@@ -27,6 +27,8 @@ Dynatrace can utilize environment variables to automatically set Tags and Custom
 
 ### 2. Validate
 
-Once working, you can validate the change in Dynatrace
+Once working, you can validate the change in Dynatrace.
 
-[JSON](https://github.com/Nodnarboen/k8s-workshop/blob/master/assets/Picture14.png)
+1. Click on "Technologies" and filter by tag
+
+![ENVTag](../../assets/images/envtag.png))
