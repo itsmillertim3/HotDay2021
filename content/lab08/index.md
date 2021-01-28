@@ -43,7 +43,7 @@ Help Documentation: https://www.dynatrace.com/support/help/technology-support/cl
 
 2. Click on "Try it out"
 
-3. Enter "go_memstats_sys_bytes" in the "filter metrics by" box
+3. Enter "go_threads" in the "filter metrics by" box
 
 4. Split by "k8s.pod.name"
 
