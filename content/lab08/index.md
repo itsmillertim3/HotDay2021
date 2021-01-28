@@ -1,5 +1,7 @@
 ## Prometheus integration
 
+Help Documentation: https://www.dynatrace.com/support/help/technology-support/cloud-platforms/kubernetes/monitoring/monitor-prometheus-metrics/
+
 ### 1. Deploy a Sample Deployment
 
 1. On the Bastion host create the sample app
