@@ -13,7 +13,7 @@
    kubectl get all -n dev
   ```
 
-  ![SockShopDevRunning](../assets/images/sockshopdev.png)
+  ![SockShopDevRunning](../../assets/images/sockshopdev.png)
 
 2. Wait a couple of minutes until all the pods are Ready and Running and the LoadBalancer objects have EXTERNAL-IPs
   ![SockShopDevRunning](../../assets/images/sockshopdevrun.png)  
